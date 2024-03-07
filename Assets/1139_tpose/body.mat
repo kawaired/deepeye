@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: body
+  m_Shader: {fileID: 4800000, guid: 47bf77b2990af2d43b210304c87b9ef4, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: d980828f2df3e704aa43e54eb24fe5a7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 2800000, guid: 640f572bc7df3764888d2bbb602f48d2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatRampTex:
+        m_Texture: {fileID: 2800000, guid: 6d11ce3b6b2391541ab7bfd504be1b61, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatTex:
+        m_Texture: {fileID: 2800000, guid: 0a1918746b053d049813ff3fb5fc87b4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTex:
+        m_Texture: {fileID: 2800000, guid: 8350e7f444e972a4bbdad908073460ad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PropertyTex:
+        m_Texture: {fileID: 2800000, guid: 5681ae2e1f926f54189c86d951f6db92, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RefectionTex:
+        m_Texture: {fileID: 2800000, guid: ddfec46adf31d6b42a1bf5daef0e56d8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShadowRampTex:
+        m_Texture: {fileID: 2800000, guid: 51bbda178b8016a49b456887eeb44511, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _FillClamp: 0.218
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _LightIndicesOffsetAndCount: 0
+    - _MatScale: 1.68
+    - _Metallic: 0
+    - _Mode: 0
+    - _NormalScale: 1.18
+    - _OcclusionStrength: 1
+    - _OutLineWidth: 0.00292
+    - _Parallax: 0.02
+    - _ProbeScale: 1.1
+    - _ReflectScale: 2
+    - _RimLightFade: 0.29
+    - _RimLightRange: 0.74
+    - _RimLightThreshold: 0.219
+    - _ShadowBias: 0.02
+    - _ShadowMaskScale: 2.4
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZOffset: 0
+    - _ZOutlineOffset: 0
+    - _ZWrite: 1
+    - _Zoffset: 0.017
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FillInner: {r: 1, g: 1, b: 1, a: 1}
+    - _FillOuter: {r: 1, g: 1, b: 1, a: 0}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MatColor: {r: 1, g: 1, b: 1, a: 1}
+    - _OutLineColor: {r: 0, g: 0, b: 0, a: 0}
+    - _ProbeLightBase: {r: 1, g: 1, b: 1, a: 0.5}
+    - _ReflectColor: {r: 0.6603774, g: 0.6603774, b: 0.6603774, a: 1}
+    - _RimLightColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    - _RimLightDir: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    - _RimLightDir1: {r: 1, g: 1, b: 1, a: 1}
+    - _RimLightDir2: {r: 2.78, g: 2.53, b: 5.05, a: 11.25}
+    - _ShadowOffset0: {r: 0.2, g: 0.2, b: 0.2, a: 0.2}
+    - _ShadowOffset1: {r: 0.2, g: 0.2, b: 0.2, a: 0.2}
+    - _ShadowOffset2: {r: 0.3, g: 0.3, b: 0.3, a: 0.3}
+    - _ShadowOffset3: {r: 0.2, g: 0.2, b: 0.2, a: 0.2}
+    - _SimAddLightAttenuation: {r: 0.4, g: 0.4, b: 0.4, a: 0.4}
+    - _SimAddLightColor: {r: 0.3, g: 0.3, b: 0.3, a: 0.3}
+    - _SimAddLightPos: {r: 0.2, g: 0.2, b: 0.2, a: 0.2}
+    - _SimShadowLightDir: {r: 0.49803922, g: 0.49803922, b: 1, a: 1}
+    - _Unity4LightIndices0: {r: 0, g: 0, b: 0, a: 0}
